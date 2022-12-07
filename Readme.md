@@ -1,6 +1,6 @@
-Steps to start:
-Run 'npm init -y'
-Run 'npm intall express'
-Run 'node .'
+Steps to start: <br>
+Run 'npm init -y' <br>
+Run 'npm intall express' <br>
+Run 'node .' <br>
 
 Query format -> 'http://localhost:4000/cost?start=startCity&end=endCity&middlestop=middleStop'
